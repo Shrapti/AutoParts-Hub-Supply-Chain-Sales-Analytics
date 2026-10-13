@@ -1,0 +1,13 @@
+Product_ID,Product_Name,Category,Brand,Unit_Cost,Unit_Price
+P001,Brake Pad,Brake System,Bosch,850,1250
+P002,Air Filter,Filters,MANN,320,500
+P003,Oil Filter,Filters,Mahle,220,350
+P004,Spark Plug,Engine Parts,NGK,180,300
+P005,Car Battery,Electrical,Exide,4200,6500
+P006,Clutch Plate,Transmission,Valeo,3800,5600
+P007,Wiper Blade,Exterior,Bosch,450,700
+P008,Headlight,Electrical,Hella,2600,3900
+P009,Engine Oil,Engine Parts,Castrol,650,950
+P010,Radiator,Cooling System,Valeo,5200,7600
+P011,Fan Belt,Engine Parts,Gates,500,750
+P012,Shock Absorber,Suspension,Monroe,2800,4200

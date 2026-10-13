@@ -1,0 +1,13 @@
+Dealer_ID,Dealer_Name,City,State,Region
+D001,ABC Auto Care,Pune,Maharashtra,West
+D002,City Motors,Mumbai,Maharashtra,West
+D003,Prime Car Service,Nashik,Maharashtra,West
+D004,Delhi Auto Works,Delhi,Delhi,North
+D005,Capital Motors,Noida,Uttar Pradesh,North
+D006,Bangalore Car Care,Bengaluru,Karnataka,South
+D007,South Auto Center,Mysuru,Karnataka,South
+D008,Chennai Motor Clinic,Chennai,Tamil Nadu,South
+D009,Hyderabad Auto Hub,Hyderabad,Telangana,South
+D010,Pune Motor Garage,Pune,Maharashtra,West
+D011,Mumbai Car Clinic,Mumbai,Maharashtra,West
+D012,Delhi Car Point,Delhi,Delhi,North

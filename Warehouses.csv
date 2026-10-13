@@ -1,0 +1,6 @@
+Warehouse_ID,Warehouse_Name,City,State,Capacity_Units
+W001,Pune Central Warehouse,Pune,Maharashtra,10000
+W002,Mumbai Distribution Center,Mumbai,Maharashtra,12000
+W003,Delhi North Warehouse,Delhi,Delhi,14000
+W004,Bengaluru South Warehouse,Bengaluru,Karnataka,11000
+W005,Chennai East Warehouse,Chennai,Tamil Nadu,9000
